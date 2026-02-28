@@ -9,8 +9,6 @@ Este repositório serve para guardar materiais, exercícios e exemplos desenvolv
 ## 🛠️ Tecnologias e Ferramentas
 Linguagem: Python 3.11+
 
-IDE: VS Code / PyCharm
-
-Testes: pytest (introdução)
+IDE: VS Code / Google Colab
 
 Controle de Versão: Git & GitHub

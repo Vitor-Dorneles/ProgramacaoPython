@@ -52,3 +52,10 @@ venv.bak
 .venv
 *.env
 *.secret
+
+# Ignorar binários e cache
+build/
+bin/
+__pycache__/
+*.class
+.idea/
