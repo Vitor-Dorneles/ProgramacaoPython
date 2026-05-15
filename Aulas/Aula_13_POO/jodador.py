@@ -41,3 +41,5 @@ with open(nome_arquivo, 'r') as arquivo:
 for jogador in lista_jogadores:
     print(jogador)
     print('-' * 20)
+
+# Criar um método ou uma função ou rotina que insira na lista somente nomes de jogadores não replicados
